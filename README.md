@@ -54,10 +54,10 @@ Every port works well but some funtions of are limited.
 
 I make USBPorts.kext to follow 15 USB ports limit.
 
-- 2 x USB 3.1 port(s) (at back panel, Type-A, support USB 2.0, 3.0 and 3.1)
-- 3 x USB 3.0 port(s) (at back panel, Type-A, only support USB 2.0).
+- 2 x USB 3.1 ports (at back panel, Type-A, support USB 2.0, 3.0 and 3.1)
+- 3 x USB 3.0 ports (at back panel, Type-A, only support USB 2.0).
 - 1 x USB 3.0 port (at back panel, Type-C SW, only support USB 3.0).
-- 2 x  USB 3.0 port (internal, Type-A, only support one and both support USB 2.0 and 3.0).
+- 2 x  USB 3.0 ports (internal, Type-A, only support one and both support USB 2.0 and 3.0).
 
 ### Bluetooth
 
@@ -117,7 +117,7 @@ There are two busid configs, "Framebuffer-con0-busid" and "Framebuffer-con1-busi
 
 #### Test Results
 
-When I only use HDMI or DP, I can use the monitor well. But when coming into the system after Apple progress bar, HDMI will take more time than DP.
+When I only use HDMI or DP, I can use the monitor well. But when coming into the system after Apple progress bar, there is a short black screen when using HDMI.
 
 When I connect HDMI and DP to my monitor at the same time, although most of the people will not do this, some errors happen.
 

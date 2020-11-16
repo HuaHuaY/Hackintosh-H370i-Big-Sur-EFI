@@ -117,7 +117,7 @@ There are two busid configs, "Framebuffer-con0-busid" and "Framebuffer-con1-busi
 
 #### Test Results
 
-When I only use HDMI or DP, I can use the monitor well. But when coming into the system after Apple progress bar, HDMI will take more time than DP.
+When I only use HDMI or DP, I can use the monitor well. But when coming into the system after Apple progress bar, there is a short black screen when using HDMI.
 
 When I connect HDMI and DP to my monitor at the same time, although most of the people will not do this, some errors happen.
 

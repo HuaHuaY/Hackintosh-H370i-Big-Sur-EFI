@@ -95,11 +95,7 @@ I use some config in `config.plist`:
 
 ### Sleep
 
-Sometimes work badly and I don't know the reasons.
-
-Sometimes the configs of "hibernatemode" and "proximity wake" will be restored and should be setted in [headkaze](https://github.com/headkaze)/**[Hackintool](https://github.com/headkaze/Hackintool)** again.
-
-![](https://cdn.jsdelivr.net/gh/HuaHuaY/Hackintosh-H370i-Big-Sur-EFI/img/4.png)
+Work well.
 
 ### Hardware Decoding
 

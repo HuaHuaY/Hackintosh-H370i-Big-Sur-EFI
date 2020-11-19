@@ -599,8 +599,7 @@
 			<string></string>
 		</dict>
 		<key>Force</key>
-		<array>
-		</array>
+		<array/>
 		<key>Patch</key>
 		<array>
 			<dict>
@@ -776,8 +775,7 @@
 	<key>Misc</key>
 	<dict>
 		<key>BlessOverride</key>
-		<array>
-		</array>
+		<array/>
 		<key>Boot</key>
 		<dict>
 			<key>ConsoleAttributes</key>
@@ -979,21 +977,21 @@
 			<key>AdviseWindows</key>
 			<false/>
 			<key>MLB</key>
-			<string>C078402074NKXPGAD</string>
+			<string>C07828902QXKXPG1F</string>
 			<key>ProcessorType</key>
-			<integer>1801</integer>
+			<integer>1541</integer>
 			<key>SystemMemoryStatus</key>
 			<string>Auto</string>
 			<key>ROM</key>
-			<data>ESIzAAAA</data>
+			<data>Jpo6/zUN</data>
 			<key>SpoofVendor</key>
 			<true/>
 			<key>SystemProductName</key>
 			<string>Macmini8,1</string>
 			<key>SystemSerialNumber</key>
-			<string>C07XHSY6JYVX</string>
+			<string>C07X25Z7JYVX</string>
 			<key>SystemUUID</key>
-			<string>315E9D4E-BEF6-42FB-8AFC-C89CC1B8F8CD</string>
+			<string>6E9B6379-4294-4040-A383-FBB8B18DC959</string>
 		</dict>
 		<key>UpdateDataHub</key>
 		<true/>
@@ -1150,8 +1148,7 @@
 			<false/>
 		</dict>
 		<key>ReservedMemory</key>
-		<array>
-		</array>
+		<array/>
 	</dict>
 </dict>
 </plist>

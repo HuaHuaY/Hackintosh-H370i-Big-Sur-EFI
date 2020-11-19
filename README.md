@@ -36,7 +36,7 @@ Modified from [SuperNG6](https://github.com/SuperNG6)/**[MSI-B360-Catalina-EFI](
 
     Windows 10 2004
 
-    MacOS Big Sur 20B29
+    MacOS 11.1 Beta 20C5048k
 
 - Monitor: SONGREN 240E (4k60hz/2k144hz, choosing 4k 60hz), HDMI or DP
 

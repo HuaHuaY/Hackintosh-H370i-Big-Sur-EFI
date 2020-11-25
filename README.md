@@ -57,7 +57,7 @@ I make USBPorts.kext to follow 15 USB ports limit.
 - 2 x USB 3.1 ports (at back panel, Type-A, support USB 2.0, 3.0 and 3.1)
 - 3 x USB 3.0 ports (at back panel, Type-A, only support USB 2.0).
 - 1 x USB 3.0 port (at back panel, Type-C SW, only support USB 3.0).
-- 2 x  USB 3.0 ports (internal, Type-A, only support one and both support USB 2.0 and 3.0).
+- 2 x  USB 3.0 ports (internal, Type-A, only support one and support both USB 2.0 and 3.0).
 
 ### Bluetooth
 

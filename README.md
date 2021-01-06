@@ -8,7 +8,7 @@ Modified from [SuperNG6](https://github.com/SuperNG6)/**[MSI-B360-Catalina-EFI](
 
 - Processor: i5 8600
 
-- Motherboard: Asus H370i (version: 2811)
+- Motherboard: ROG STRIX H370-I GAMING (BIOS version: 2811)
 
 - Graphics:
 

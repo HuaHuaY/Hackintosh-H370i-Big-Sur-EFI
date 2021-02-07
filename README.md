@@ -34,9 +34,9 @@ Modified from [SuperNG6](https://github.com/SuperNG6)/**[MSI-B360-Catalina-EFI](
 
 - System: 
 
-    Windows 10 2004
+    Windows 10 20H2
 
-    MacOS 11.2 Beta 20D5029f
+    MacOS 11.3 Beta 20E5172i
 
 - Monitor: SONGREN 240E (4k60hz/2k144hz, choosing 4k 60hz), HDMI or DP
 
@@ -105,15 +105,7 @@ Work well. And I ban the RTX 2070S in the config.plist.
 
 ### HDMI and DP
 
-#### When you want to change HDMI or DP config, please see this first.
-
-In the path `Root - DeviceProperties - Add - PciRoot(0x0)/Pci(0x2,0x0)` of `config.plist`, there are two connectors "con0" and "con1", which point to "DP" and "HDMI". 
-
-There are two busid configs, "Framebuffer-con0-busid" and "Framebuffer-con1-busid". In Hackintool, you will see the value of two busid are "5" and "6". However, if you change any of them to "5" or "6", HDMI will be disabled.
-
-#### Problem
-
-There may be black screen when coming into the system with HDMI. Unplug the HDMI cable and plug it again will solve the black screen.
+One problem. If using HDMI with `-v` boot-args, it will stuck.
 
 ### Facetime and iMessage
 

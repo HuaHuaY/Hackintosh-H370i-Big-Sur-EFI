@@ -1,6 +1,6 @@
 # Hackintosh-H370i-Big-Sur-EFI
 
-H370i + i5 8600 + RTX 2070S + OpenCore 0.6.5
+H370i + i5 8600 + RTX 2070S + OpenCore 0.6.7
 
 Modified from [SuperNG6](https://github.com/SuperNG6)/**[MSI-B360-Catalina-EFI](https://github.com/SuperNG6/MSI-B360-Catalina-EFI)**[(commit 8eea1d7)](https://github.com/SuperNG6/MSI-B360-Catalina-EFI/commit/8eea1d72913fae12a1b656ea2bf869e7fc4bb92f).
 
@@ -36,15 +36,15 @@ Modified from [SuperNG6](https://github.com/SuperNG6)/**[MSI-B360-Catalina-EFI](
 
     Windows 10 20H2
 
-    MacOS 11.3 Beta 20E5172i
+    MacOS 11.3 Beta 20E5196f
 
 - Monitor: SONGREN 240E (4k60hz/2k144hz, choosing 4k 60hz), HDMI or DP
 
-![](https://cdn.jsdelivr.net/gh/HuaHuaY/Hackintosh-H370i-Big-Sur-EFI/img/0.0.png)
+![](./img/0.0.png)
 
-![](https://cdn.jsdelivr.net/gh/HuaHuaY/Hackintosh-H370i-Big-Sur-EFI/img/0.1.png)
+![](./img/0.1.png)
 
-![](https://cdn.jsdelivr.net/gh/HuaHuaY/Hackintosh-H370i-Big-Sur-EFI/img/0.2.png)
+![](./img/0.2.png)
 
 ## Status
 
@@ -65,7 +65,7 @@ Work well.
 
 Use [OpenIntelWireless](https://github.com/OpenIntelWireless)/**[IntelBluetoothFirmware](https://github.com/OpenIntelWireless/IntelBluetoothFirmware)**.
 
-![](https://cdn.jsdelivr.net/gh/HuaHuaY/Hackintosh-H370i-Big-Sur-EFI/img/1.png)
+![](./img/1.png)
 
 ### WLAN
 
@@ -73,7 +73,7 @@ Work well.
 
 Use [OpenIntelWireless](https://github.com/OpenIntelWireless)/**[itlwm](https://github.com/OpenIntelWireless/itlwm)**.
 
-![](https://cdn.jsdelivr.net/gh/HuaHuaY/Hackintosh-H370i-Big-Sur-EFI/img/2.png)
+![](./img/2.png)
 
 ### Audio
 
@@ -91,7 +91,7 @@ I use some config in `config.plist`:
 </dict>
 ```
 
-![](https://cdn.jsdelivr.net/gh/HuaHuaY/Hackintosh-H370i-Big-Sur-EFI/img/3.png)
+![](./img/3.png)
 
 ### Sleep
 
@@ -101,7 +101,7 @@ Work well.
 
 Work well. And I ban the RTX 2070S in the config.plist.
 
-![](https://cdn.jsdelivr.net/gh/HuaHuaY/Hackintosh-H370i-Big-Sur-EFI/img/5.png)
+![](./img/5.png)
 
 ### HDMI and DP
 
